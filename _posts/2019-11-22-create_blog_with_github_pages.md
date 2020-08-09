@@ -387,30 +387,9 @@ PicGo支持图片上传github、SM.MS图床、阿里云、腾讯云等主流图�
 
 ![PicGo](https://raw.githubusercontent.com/lemonchann/lemonchann.github.io/master/images/2019-11-22-create_blog_with_github_pages/PicGo.png)
 
-## 其他功能
-
-[小功能](https://blog.csdn.net/ds19991999/article/details/81293467)
-
-[好用的github插件](https://blog.csdn.net/u012702547/article/details/100533763)
-
-
-
-## 网站结构
-
-根目录的index.html生成blog首页
-
-_include/footer.html生成侧边栏
-
-_include/svg-icons.html生成社交头像的链接
-
-
 
 ## 致谢
 
 感谢 [Jekyll](https://www.jekyll.com.cn/) 提供的技术支持才能有这个博客。
 
 感谢 [LOFFER ](https://fromendworld.github.io/LOFFER/document/)提供的原始模板，我在其上进行的二次开发。
-
-**我的个人技术公众号「后端技术学堂」分享、记录、成长，扫码添加，一起学习，共同成长。**
-
-![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
