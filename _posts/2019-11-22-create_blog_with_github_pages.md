@@ -1,20 +1,19 @@
 ---
 layout: post
-title: "可能是最全面的github pages搭建个人博客教程"
+title: "?"
 date:   2019-11-22
 tags: [geek]
 comments: true
-author: lemonchann
+author: ?
 ---
 
 
 <!-- more -->
 
-## 开始
+## Day 1
+I sorted the trash and threw it in the respective bins, and wrap sharp objects in newspaper so the staff won't get cut.
 
-话不多说，直接上图先来看下我的博客整体效果。[**点击在线预览我的博客**]( https://lemonchann.github.io/blog/)，个人比较喜欢这种简约的博客风格，不要花里胡哨但该有的功也都有。
-
-![blogPage](https://raw.githubusercontent.com/lemonchann/lemonchann.github.io/master/images/2019-11-22-create_blog_with_github_pages/blogPage.png)
+![blogPage]https://news.cgtn.com/news/3441444e7a636a4d7a51444d31597a4e34456a4e31457a6333566d54/img/2f16ad423cf54dd3a18eea8ba094de27/2f16ad423cf54dd3a18eea8ba094de27.jpg)
 
 
 
