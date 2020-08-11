@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "?"
-date:   2019-11-22
+date:   11/8/2020
 tags: [geek]
 comments: true
 author: ?
@@ -13,39 +13,10 @@ author: ?
 ## Day 1
 I sorted the trash and threw it in the respective bins, and wrap sharp objects in newspaper so the staff won't get cut.
 
-![blogPage]https://news.cgtn.com/news/3441444e7a636a4d7a51444d31597a4e34456a4e31457a6333566d54/img/2f16ad423cf54dd3a18eea8ba094de27/2f16ad423cf54dd3a18eea8ba094de27.jpg)
+![blogPage]https://image.freepik.com/free-vector/waste-sorting-sorting-waste-recycling-garbage-sorting-recycling-bins-different-types-garbage-paper-plastics-scrap-metal-glass-organic-e-waste-modern-flat-illustration_214151-22.jpg)
 
+## Day 2
 
-
-下面列举这个博客具有的功能特性，其中我比较看重归档和搜索能力。
-
-### 支持特性
-
-- 简约风格博客
-
-- Powered By Jekyll
-
-- 博客文章搜索
-
-- 自定义社交链接
-
-- 网站访客统计
-
-- Google Analytics 网站分析
-
-- Gitalk评论功能
-
-- 自定义关于about页面
-
-- 支持中文布局
-
-- 支持归档与标签
-
-- 支持改变主题颜色
-
-- 支持添加文章目录
-
-  
 
 ## 建立博客Git仓库
 
