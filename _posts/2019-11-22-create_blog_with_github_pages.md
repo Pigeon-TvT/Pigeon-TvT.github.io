@@ -13,7 +13,7 @@ author: ?
 ## Day 1
 I sorted the trash and threw it in the respective bins, and wrap sharp objects in newspaper so the staff won't get cut.
 
-![blogPage]https://image.freepik.com/free-vector/waste-sorting-sorting-waste-recycling-garbage-sorting-recycling-bins-different-types-garbage-paper-plastics-scrap-metal-glass-organic-e-waste-modern-flat-illustration_214151-22.jpg)
+![blogPage](https://github.com/Pigeon-TvT/Pigeon-TvT.github.io/blob/master/blogPage.png)
 
 ## Day 2
 
